@@ -1,4 +1,4 @@
-public class Qn4 {
+public class Que4 {
 static boolean check_automorphic(int n) {
 
 	
